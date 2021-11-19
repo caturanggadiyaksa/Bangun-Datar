@@ -1,0 +1,33 @@
+rumus luas dan keliling bangun datar 
+
+1. persegi
+  luas = sisi x sisi
+  keliling = 4 x sisi
+  
+2. persegi panjang
+  luas = panjang * lebar
+  keliling = 2 x (panjang + lebar)
+  
+3. jajargenjang
+  luas = alas x tinggi
+  keliling = (2 x panjang sisi) + (2 x alas)
+  
+4. trapesium
+  luas = (sisi 1 + sisi 2 x tinggi)/2
+  keliling = sisi 1 + sisi 2 + sisi 3 + tinggi
+  
+5. belah ketupat
+  luas = (diagonal 1 x diagonal 2)/2
+  keliling = 4 x sisi
+  
+6. layang layang
+  luas = (diagonal 1 x diagonal 2)/2
+  keliling = 2 x (panjang + lebar)
+  
+7. segitiga
+  luas = (alas x tinggi)/2
+  keliling = sisi 1 + alas + tinggi
+  
+8. lingkarang
+  luas = phi x radius radius
+  keliling = 2 x phi x radius
